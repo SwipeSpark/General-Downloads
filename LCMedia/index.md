@@ -18,7 +18,7 @@ Please choose a county from below to find media for it's underlying councils.
 * [Derbyshire (v2)](https://swipespark.github.io/General-Downloads/LCMedia/Derbyshire)
 * [Devon (v2)](https://swipespark.github.io/General-Downloads/LCMedia/Devon)
 * [Dorset (v2)](swipespark.github.io/General-Downloads/LCMedia/Dorset)
-* [East Riding of Yorkshire (v1)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/East%20Riding%20of%20Yorkshire)
+* [East Riding of Yorkshire (v2)](https://swipespark.github.io/General-Downloads/LCMedia/EastRidingOfYorkshire)
 * [East Sussex (v1)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/East%20Sussex)
 * [Essex (v1)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/Essex)
 * [Gloucestershire (v1)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/Gloucestershire)
