@@ -4,9 +4,9 @@
 
 Please choose a council from below to find media.
 
-* [Bedford Borough Council (unitary)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/Bedfordshire)
-* [Luton Borough Council (unitary)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/Bedfordshire)
-* [Central Bedfordshire Council (unitary)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/Bedfordshire)
+* [Bedford Borough Council (unitary)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/Bedfordshire/Bedford%20Borough%20Council)
+* [Luton Borough Council (unitary)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/Bedfordshire/Luton%20Borough%20Council)
+* [Central Bedfordshire Council (unitary)](https://github.com/SwipeSpark/General-Downloads/tree/main/Local%20Councils%20in%20England/Bedfordshire/Central%20Bedfordshire%20Council)
 
 ### Support or Contact
 
