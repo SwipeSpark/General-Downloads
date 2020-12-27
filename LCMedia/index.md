@@ -6,7 +6,7 @@ Here, you can find logos, and some fonts/branding guidelines for all local counc
 
 Please choose a county from below to find media for it's underlying councils.
 
-* [Bedfordshire]
+* [Bedfordshire](https://swipespark.github.io/General-Downloads/LCMedia/Bedfordshire)
 * [Berkshire]
 * [Bristol]
 * [Buckinghamshire]
