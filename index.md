@@ -1,4 +1,4 @@
-## Welcome to the Local Councils England Media Databse
+## Welcome to the Local Councils England Media Database
 
 Here, you can find logos, and some fonts/branding guidelines for all local councils in England, including District, Borough, City, County, Unitary and Combined Authories.
 
