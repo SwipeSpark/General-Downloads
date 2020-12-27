@@ -6,8 +6,6 @@ Here, you can find logos, and some fonts/branding guidelines for all local counc
 
 Please choose a county from below to find media for it's underlying councils.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Support or Contact
 
 Having trouble finding the correct media? Feel free to send us an email on hello@localcouncils.xyz. We'll be more than happy to help!
